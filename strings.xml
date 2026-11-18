@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">LocalPro</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_list">List</string>
+    <string name="nav_saved">Saved</string>
+    <string name="nav_profile">Profile</string>
+    <string name="search_placeholder">Search electrician, plumber, name…</string>
+    <string name="categories_title">Browse Services</string>
+    <string name="featured_title">Top-Rated Near You</string>
+    <string name="offer_banner_title">Offer Your Service</string>
+    <string name="offer_banner_subtitle">Join trusted local pros &amp; get direct calls</string>
+    <string name="call_now">Call</string>
+    <string name="whatsapp_now">WhatsApp</string>
+    <string name="add_review">Add Review</string>
+    <string name="reviews_title">Customer Reviews</string>
+    <string name="no_reviews_yet">No reviews yet. Be the first to share your experience!</string>
+    <string name="saved_empty_title">No Saved Pros Yet</string>
+    <string name="saved_empty_subtitle">Tap the bookmark icon on any service provider to keep them handy here.</string>
+    <string name="list_empty_title">No Providers Found</string>
+    <string name="list_empty_subtitle">Try another category, adjust your search, or list your own service!</string>
+    <string name="offer_form_title">Offer Your Service</string>
+    <string name="offer_form_subtitle">Create a local listing so neighbors can call or WhatsApp you directly.</string>
+    <string name="submit_listing">Publish Listing</string>
+    <string name="my_listings_title">Your Listed Services</string>
+</resources>
